@@ -1,4 +1,4 @@
-# 
+# smart Advanced SystemCare PC版 插件 是最佳 Advanced SystemCare PC版 插件，集成 临时文件清理 和 任务栏自定义。安全、可靠、优化，性能最大化。
 
 
 
